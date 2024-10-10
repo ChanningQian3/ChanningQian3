@@ -3,7 +3,7 @@
 - 🌱 I’m good at C/C++, and also ARM/RISCV
 - 💞️ I use github to creat my own project
 - 📫 How to reach me: channingqian3@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: First upload test
 - ⚡ Fun fact: ...
 
 <!---
